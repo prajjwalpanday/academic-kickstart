@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Hydro-climatology",
+    "GIScience / Remote sensing",
+    "Land-atmosphere interactions"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Geography"
+  institution = "Clark University"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Environmental Science"
+  institution = "SUNY College of Environmental Science & Forestry"
+  year = 2007
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BSc in Chemistry & Environmental Studies"
+  institution = "St. Lawrence University"
+  year = 2005
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Prajjwal Panday joined Nichols College as Assistant Professor of Environmental Science in the Fall of 2016. He is a broadly trained geographer with expertise in environmental modeling, hydro-climatology, remote sensing, and geospatial technologies. His research and intellectual interests focused on using a systems approach to determine linkages between climate variability, anthropogenic changes, and land-water interactions. His research utilizes field-based observations, satellite remote sensing, geospatial data, and process-based modeling to understand terrestrial and hydrological processes across various spatial and temporal scales. Much of his work thus far has focused on the monitoring and modeling of various components of the hydrological cycle in some of the fastest changing regions of the world such as the Himalayas as well as the Amazon. 
