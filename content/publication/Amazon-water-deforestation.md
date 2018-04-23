@@ -1,6 +1,6 @@
 +++
 title = "Deforestation offsets water balance changes due to climate variability in the Xingu River in eastern Amazonia"
-date = 2018-04-22T23:10:35-04:00
+date = 2015-04-30T23:10:35-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Hydrology"
-publication_short = "JHyd"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/Panday_etal_2015_JHyd.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Journal Website", url = "https://www.sciencedirect.com/science/article/pii/S0022169415001304"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
