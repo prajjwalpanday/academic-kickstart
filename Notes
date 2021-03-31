@@ -1,0 +1,12 @@
+steps
+
+in the terminal
+cd My_Website
+
+cd public
+git add -A
+git commit -m 'initial commit'
+git push origin master
+
+cd ../
+hugo
